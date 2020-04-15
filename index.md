@@ -1,7 +1,7 @@
-# Welcome to my blog
+# Welcome to My Notebook
 
-I'm glad you are here. I plan to talk about ...
+While you're here, explore ...
 
-* My Life
-  * My Life
-    * And My Life
+* Computer Science
+* Digital Design
+* And My Life
